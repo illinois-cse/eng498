@@ -1,7 +1,7 @@
 # ENG 498 Interdisciplinary Methods in Research Computing
 ## University of Illinois at Urbana–Champaign
 
-![](https://raw.githubusercontent.com/illinois-cse/eng498/gh-pages/wordmark-small.png){:width 100%}
+![](wordmark-small.png)
 
 ## What This Course Does
 
