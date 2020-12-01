@@ -18,6 +18,31 @@ We really want two things for you to be able to do:
 
 This course is suitable for students from across campus who intend to work with data using computerized processing.  For the Sp21 pilot, we expect students to have some prior programming experience, but no particular language or platform is assumed.
 
+## What We Cover
+
+We're finalizing our outline now, but we plan to cover the following topics:
+
+- Project Organization & Management + Reproducibility 1
+- Data Organization in Spreadsheets
+- Data Cleaning with OpenRefine
+- Task Automation with the Command Line
+- Version Control with Git
+- Data Entry & Storage with SQL
+- Scripting with Python
+- SQLite API with Python
+- Visualizing Data with Python
+- Interacting with Data
+- Task Management
+- Workflows & Lifecycles
+- Testing & Integration
+- Document Authoring
+- Collaboration, Licensing & Legal
+- Reproducibility
+- Publishing Code
+
+For the pilot session in Sp21, we ask that you have some background in programming already (CS 101, 105, 125, or equivalent is great).  That'll make it easier for us to focus on automation, reproducibility, and data management.
+
+
 ## What Motivates Us
 
 Computing and data-intensive analysis have become ubiquitous in all domains, and the impact of instrumentation and computation is only likely to increase over the next decades. At the same time, a focus on reproducibility in research calls for more automatic processes and methods of incorporating data and computing environments. Research should be repeatable and reproducible, and use of computing should lend confidence to scientific results. Many times, courses and projects requiring these skills presume that students already have them or that students will pick them up informally and on their own. Few make a point of explicitly teaching these important skills and effectively none are strategically focused on it to adequately prepare students for their work.
